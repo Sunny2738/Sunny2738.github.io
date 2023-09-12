@@ -1,0 +1,1 @@
+import{_ as o,o as s,c as t,a as e}from"./app-86c5b1cd.js";const c="/images/hero.png",n={},_=e("p",null,[e("img",{src:c,alt:"VuePress Logo"})],-1),r=[_];function a(i,l){return s(),t("div",null,r)}const m=o(n,[["render",a],["__file","index.html.vue"]]);export{m as default};
